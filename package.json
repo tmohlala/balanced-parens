@@ -1,0 +1,15 @@
+{
+  "name": "kandua-problem-set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-balanced-parens": "node balanced-parens/balanced-parens-test.js",
+    "test-repeating-function": "node repeating-function/repeating-function-test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "5.2.2"
+  }
+}
